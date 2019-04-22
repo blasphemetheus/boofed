@@ -2,11 +2,9 @@ package main
 
 import (
   "fmt"
-  "log"
 )
 
 
 func main() {
-  log.Printf("Hello", var)
-  fmt.Printf("oi")
+  fmt.Println("Hello, guy but gender neutral")
 }
